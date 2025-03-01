@@ -28,7 +28,7 @@ This folder contains certificates I have received upon successful completion of 
 ## 📂 Other Certificate Folders
 In addition to this folder, I also have:
 - [Workshop Certificates](https://github.com/SH4N1D/CERTIFICATES/tree/main/Workshop_Certificates) 📜
-- [Course Completion Certificates](./Course Certificates/) 🏅
+- [Course Completion Certificates](./CourseCertificates/) 🏅
 
 Feel free to explore these folders for more certificates!
 
