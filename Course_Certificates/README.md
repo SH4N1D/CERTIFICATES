@@ -1,7 +1,5 @@
 # 🏆 My Course Certificates
 
-![Certificate Showcase](https://i.pinimg.com/originals/6e/8b/1b/6e8b1b1b8f1a1e1c1e1c1e1c1e1c1e1c.jpg)
-
 Welcome to my **Course Certificates** repository! Here, I have uploaded the certificates I have earned from various courses.
 
 ---
