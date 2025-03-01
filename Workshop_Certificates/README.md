@@ -1,7 +1,5 @@
 # 🏆 My Workshop Certificates
 
-![Certificate Showcase](https://i.pinimg.com/474x/f7/9e/c7/f79ec757795886b4352552e7c34f261a.jpg)
-
 Welcome to my **Workshop Certificates** folder! Here, I have uploaded the certificates I have earned from various workshops.
 
 ---
