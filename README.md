@@ -9,11 +9,4 @@ This folder contains certificates I have received upon successful completion of 
 
 ---
 
-## 🎖️ Certificates Included
-📌 Categorized based on topics.  
-📌 Available in **PDF** and **image** formats.  
-📌 Open for viewing and downloading.  
-
----
-
 
